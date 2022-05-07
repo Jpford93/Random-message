@@ -1,0 +1,57 @@
+body {
+    background-color: lightsalmon;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.btn {
+    width: 600px;
+    height: 40px;
+    margin-bottom: 20px;
+    background-color: tomato;
+    border: none;
+    color: #fff;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+#paragraph {
+    margin: 30px 0 50px 0;
+    text-align: center;
+}
+
+h1#Jokes-title {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#overview {
+    margin: 20px 80px 0 80px;
+    display: block;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.btn:hover {
+    color: tomato;
+    background-color: lightcyan;
+}
